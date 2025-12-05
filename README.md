@@ -1,4 +1,4 @@
-Unless explicitly stated otherwise, all documentation files in this repository, or named herien, are © 2025 Brandon Ford & Lief Technologies LLC. All rights reserved.
+Unless explicitly stated otherwise, all documentation files in this repository, or named herein, are © 2025 Brandon Ford & Lief Technologies LLC. All rights reserved.
   
 You may view these files on GitHub for personal/reference use, but any reproduction, redistribution, or commercial use requires prior written permission.
 
